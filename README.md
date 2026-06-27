@@ -122,16 +122,16 @@ Example:
 
 ## KPI Tree
 
-![KPI Tree](screenshots/kpi_tree_preview.png)
+![KPI Tree](Screenshots/kpi_tree_preview.png)
 
 
 ## Experiment Results
 
-![Metrics](screenshots/summary_metrics.png)
+![Metrics](Screenshots/summary_metrics.png)
 
 ## Hypothesis Test Output
 
-![Hypothesis Test](screenshots/hypothesis_test_output.png)
+![Hypothesis Test](Screenshots/hypothesis_test_output.png)
 
 
 ---
