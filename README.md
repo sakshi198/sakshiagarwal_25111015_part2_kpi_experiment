@@ -112,13 +112,6 @@ The treatment improves activation and engagement, but increased support demand i
 
 ## Screenshots
 
-Add screenshots of:
-- KPI tree
-- Excel metrics table
-- Guardrail analysis
-- Recommendation memo
-
-Example:
 
 ## KPI Tree
 
